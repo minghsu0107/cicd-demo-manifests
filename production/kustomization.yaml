@@ -10,4 +10,4 @@ apiVersion: kustomize.config.k8s.io/v1beta1
 kind: Kustomization
 images:
 - name: minghsu0107/cicd-demo
-  newTag: 5a05bde6be0f5550806c8aa4b3310a6a365c639d
+  newTag: 31120d0b95a871c7195569653c74fef061eb49a6
